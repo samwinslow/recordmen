@@ -1,0 +1,69 @@
+/* Fonts for The Record Men
+   we should buy these fonts if we go big...
+*/
+
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Normal LF Roman.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Normal LF Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Medium LF Roman.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Medium LF Italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Bold LF Roman.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Meta LF';
+  src: url('../fonts/Meta Bold LF Italic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Century Schoolbook';
+  src: url('../fonts/Century Schoolbook.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Century Schoolbook';
+  src: url('../fonts/Century Schoolbook Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Century Schoolbook';
+  src: url('../fonts/Century Schoolbook Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Century Schoolbook';
+  src: url('../fonts/Century Schoolbook Bold Italic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
